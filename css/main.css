@@ -1410,8 +1410,8 @@ header .logo a {
 }
 @media only screen and (max-width:768px) {
 	.intro-info img {
-		height: 7.8rem;
-		width: 7.8rem;
+		height: 18rem;
+		width: 18rem;
 	}
 	.intro-info .lead {
 		padding-left: 11rem;
@@ -1436,8 +1436,8 @@ header .logo a {
 		margin-top: 3rem;
 	}
 	.intro-info img {
-		height: 6.6rem;
-		width: 6.6rem;
+		height: 16rem;
+		width: 16rem;
 		float: none;
 		display: inline-block;
 	}
